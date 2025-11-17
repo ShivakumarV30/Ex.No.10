@@ -1,4 +1,4 @@
-# FINAL REPORT – Prompting Techniques for AI Content Generation
+# Ex.No.10 Content Creation (Reports, Articles, Case Studies, etc.) Using Prompt Patterns
 
 **Date:** 17/11/2025  
 **Register No.:** 212222060239  
