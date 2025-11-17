@@ -1,66 +1,171 @@
-# Ex.No.10
-Content Creation (Reports, Articles, Case Studies, etc.) Using Prompt Patterns
+# FINAL REPORT – Prompting Techniques for AI Content Generation
 
-## Date:
-## Reg. No.
+**Date:** 17/11/2025  
+**Register No.:** 212222060239  
 
-## Aim:
-To demonstrate how various prompting techniques (query decomposition, decision-making, semantic filtering, etc.) can be employed to create content such as reports, articles, case studies, or creative works like comic books, using ChatGPT or similar models. The objective is to highlight how different prompt structures affect the content's quality, coherence, and structure.
+---
 
-## Procedure:
-1.	Introduction to Prompt Patterns: Begin by understanding the following prompt patterns:
-○	Query Decomposition: Breaking down complex queries into smaller, actionable parts.
-○	Decision Making: Asking the model to choose between options or directions.
-○	Answer Engineering: Refining outputs by giving detailed instructions on how to structure or format the answer.
-○	Fact Check List: Ensuring the content is factually accurate, especially for reports or case studies.
-○	Tail Generation: Extending the content logically to create depth in storytelling or analysis.
-○	Menu Actions: Presenting multiple action choices and guiding the AI to select one.
-○	Semantic Filter: Applying filters to control the tone, style, and accuracy of the content.
-2.	Choosing the Content Type: Decide on the type of content you want to create. This could be:
-○	Reports (e.g., industry analysis, sustainability reports, etc.)
-○	Case Studies (e.g., business solutions, technological innovations)
-○	Articles (e.g., opinion pieces, educational articles)
-○	Creative Content (e.g., comic book story, short stories, video scripts)
-3.	For example, you could choose a business report on market trends, a case study on a successful startup, or even a story-based prompt like creating a fictional world for a comic.
-4.	Creating the Prompts:
-○	Start with simple prompts to generate initial content.
-○	Gradually refine the prompts, moving toward more complex techniques like decision-making (asking the model to pick one of several options), tail generation (extending the narrative), and semantic filtering (adjusting style or tone).
-5.	Generating and Refining Outputs: Use the model to generate initial drafts, and then refine the outputs using iterative adjustments:
-○	For a report, prompt the model with basic data, then ask for a deeper analysis and insights.
-○	For creative content, refine the initial story idea with specific details on characters, settings, or actions.
-6.	Review and Evaluation: After generating content, evaluate the outputs for:
-○	Coherence: Is the generated content logical and structured?
-○	Creativity/Originality: Is the content engaging and fresh?
-○	Accuracy: Is the content factually accurate (for reports and case studies)?
-○	Tone and Style: Does the content match the intended tone (formal, creative, educational)?
-________________________________________
-Test Case Scenarios for Content Generation: (USE ANY 2)
-content generation scenarios:
-1.	Business Report on Market Trends
-2.	Case Study on Business Success
-3.	Article on Climate Change
-4.	Creative Writing - Sci-Fi Short Story
-5.	Educational Report on Renewable Energy
-6.	Product Launch Announcement
-7.	Travel Blog Post
-8.	Research Paper on Artificial Intelligence
-9.	Interview Transcript for Documentary
-10.	Sustainability Practices in Fashion
-11.	How to Build an E-commerce Website
-12.	Social Issue Awareness Campaign
-13.	Artificial Intelligence Impact on Healthcare
-## Instructions:
-1.	Select a Topic: Choose a topic (e.g., market trends, climate change, sci-fi story) that interests you.
-2.	Use Basic Prompts: Start by crafting simple, general prompts to generate initial content.
-3.	Refine Your Prompts: Gradually introduce more complexity by adding details, refining the structure, and using different prompt techniques like decision making or semantic filtering.
-4.	Evaluate the Output: Review the generated content for clarity, creativity, and accuracy.
-5.	Iterate for Improvement: Based on the feedback, refine the prompts and regenerate the content as needed.
+## **1. AIM**
+The aim of this experiment is to explore how different prompting techniques influence the quality, clarity, structure, and style of AI-generated content. By comparing outputs produced using simple prompts with those generated using refined, structured, and detailed prompts, this experiment evaluates how prompt design affects the final content.
 
-## Deliverables:
-1.	First Draft: A basic draft of the report, case study, article, or story generated using simple prompts.
-2.	Refined Content: A more detailed and structured output, achieved by applying more advanced prompt techniques.
-3.	Multiple Versions: Different versions of the content, showing the effect of prompt changes on the output.
-4.	Final Version: The polished version of the content after incorporating feedback and refining the prompts.
+---
 
-## Conclusion:
-By applying various prompting techniques, you can generate high-quality content for a wide range of use cases, from business reports and case studies to creative works like short stories and articles. This experiment demonstrates how structured prompting can guide AI models like ChatGPT to create coherent, accurate, and engaging outputs tailored to specific needs.
+## **2. OBJECTIVES**
+- To generate initial content using simple/basic prompts.  
+- To refine prompts by adding detailed instructions regarding tone, structure, style, and context.  
+- To create multiple versions of content to observe how small prompt modifications influence the output.  
+- To produce final polished versions for selected topics.  
+- To compare differences in quality, creativity, coherence, and factual accuracy across versions.  
+
+---
+
+## **3. METHODOLOGY**
+
+### **Step 1: Selection of Scenarios**
+The experiment involves choosing any two content-generation topics from the provided list.
+
+### **Step 2: Use of Simple Prompts**
+Basic prompts were used to generate initial drafts. These served as the foundational outputs.
+
+### **Step 3: Refined Prompting**
+Prompts were improved by incorporating:
+- Structural format (intro–body–conclusion)  
+- Key points to be covered  
+- Tone requirements  
+- Depth and clarity instructions  
+
+### **Step 4: Multiple Versions**
+Different writing tones and styles were generated:
+- Creative  
+- Technical  
+- Child-friendly  
+- Scientific  
+- Emotional  
+
+### **Step 5: Evaluation and Refinement**
+Outputs were assessed for:
+- Coherence  
+- Accuracy  
+- Readability  
+- Detail level  
+- Tone consistency  
+
+Prompts were refined until final outputs were satisfactory.
+
+---
+
+## **TOPICS USED**
+The following two scenarios were selected for the experiment:
+
+1. **Educational Report on Renewable Energy**  
+2. **Article on Climate Change**
+
+---
+
+# **4. IMPLEMENTATION & OUTPUTS**
+
+---
+
+# **SCENARIO 1: EDUCATIONAL REPORT ON RENEWABLE ENERGY**
+
+## **A. First Draft (Simple Prompt)**  
+
+**Prompt:**  
+“Write a simple educational report on renewable energy.”
+
+**Output:**  
+Renewable energy comes from natural sources like the sun, wind, and water. It reduces pollution and is sustainable. Common examples include solar, wind, and hydropower.
+
+---
+
+## **B. Refined Version (Detailed Prompt)**  
+
+**Prompt:**  
+“Create a structured educational report on renewable energy with definition, types, benefits, challenges, and future potential.”
+
+**Output (Shortened):**
+- Renewable energy comes from naturally replenishing sources.  
+- **Types:** Solar, wind, hydropower, biomass  
+- **Benefits:** Low pollution, sustainable supply, job creation  
+- **Challenges:** Weather dependency, high initial cost  
+- **Future:** Growth expected due to technology and global climate policies  
+
+---
+
+## **C. Multiple Versions (Styles)**
+
+**Creative Style:**  
+Renewable energy is nature’s endless gift, offering clean power from the sun, wind, and rivers.
+
+**Technical Style:**  
+Renewable systems use photovoltaic, aerodynamic, and hydroelectric technologies for power conversion.
+
+**Child-Friendly Style:**  
+Renewable energy comes from the sun, wind, and water—sources that never run out and keep the Earth clean.
+
+---
+
+## **D. Final Polished Output**
+Renewable energy is derived from naturally replenishing sources such as sunlight, wind, and water. These clean energy resources help reduce pollution and slow global warming.  
+Major types include solar, wind, hydropower, and biomass. Although renewable energy provides sustainability and environmental benefits, it faces challenges like high installation costs and weather dependency.  
+With rapid technological advancements, renewable energy is expected to become a major part of the global energy system in the future.
+
+---
+
+---
+
+# **SCENARIO 2: ARTICLE ON CLIMATE CHANGE**
+
+## **A. First Draft (Simple Prompt)**  
+
+**Prompt:**  
+“Write a simple article on climate change.”
+
+**Output:**  
+Climate change occurs due to pollution and deforestation. It causes rising temperatures and extreme weather. We must reduce pollution.
+
+---
+
+## **B. Refined Version (Detailed Prompt)**  
+
+**Prompt:**  
+“Write a structured and informative article on climate change with causes, effects, and solutions.”
+
+**Output (Shortened):**
+- **Causes:** Fossil fuels, deforestation, industrial emissions  
+- **Effects:** Global warming, melting ice caps, extreme weather, sea-level rise  
+- **Solutions:** Renewable energy adoption, tree planting, emission reduction  
+
+---
+
+## **C. Multiple Versions (Styles)**
+
+**Emotional Tone:**  
+Climate change is reshaping our planet and threatening millions of lives as storms intensify.
+
+**Scientific Tone:**  
+Anthropogenic greenhouse gases disrupt Earth’s radiative balance, resulting in long-term climatic shifts.
+
+**Youth-Friendly Tone:**  
+Earth is getting hotter because of pollution, affecting animals, weather, and our future.
+
+---
+
+## **D. Final Polished Output**
+Climate change is one of the most serious environmental challenges today. It is primarily driven by human activities such as fossil fuel use, industrial processes, and deforestation.  
+Its consequences include global warming, melting glaciers, sea-level rise, and extreme weather events.  
+Addressing climate change requires adopting renewable energy, reducing carbon emissions, protecting forests, and supporting global sustainability initiatives.
+
+---
+
+## **5. RESULT**
+The experiment clearly demonstrated that prompt structure and detail level greatly influence AI-generated content.
+
+### **Key Observations**
+- Simple prompts produced short, basic, and generic responses.  
+- Detailed prompts generated more structured, coherent, and informative outputs.  
+- Changing tone or style significantly altered content depth and presentation.  
+- Final versions were polished, accurate, and professionally written.  
+
+---
+
